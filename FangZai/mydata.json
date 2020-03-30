@@ -1,0 +1,30 @@
+[
+    {
+    "customer_id": 1,
+    "customer_name": "宜蘭縣",
+    "customer_type": "123",
+    "age": 40,
+    "units_sold": 2
+    },
+    {
+    "customer_id": 2,
+    "customer_name": "台北市",
+    "customer_type": "456",
+    "age": 80,
+    "units_sold": 3
+    },
+    {
+    "customer_id": 3,
+    "customer_name": "新北市",
+    "customer_type": "789",
+    "age": 30,
+    "units_sold": 4
+    },
+    {
+    "customer_id": 3,
+    "customer_name": "桃園市",
+    "customer_type": "789",
+    "age": 30,
+    "units_sold": 4
+    }
+]

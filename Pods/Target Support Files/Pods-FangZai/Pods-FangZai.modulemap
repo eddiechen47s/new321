@@ -1,0 +1,6 @@
+framework module Pods_FangZai {
+  umbrella header "Pods-FangZai-umbrella.h"
+
+  export *
+  module * { export * }
+}
